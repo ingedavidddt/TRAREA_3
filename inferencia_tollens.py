@@ -27,3 +27,4 @@ if resultado is not None:
         print("Resultado final: no P es verdadero.")
 else:
     print("Resultado final: No se puede concluir nada.")
+
