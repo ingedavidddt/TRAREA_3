@@ -24,3 +24,4 @@ if resultado:
     print("Resultado final: Q es verdadero.")
 else:
     print("Resultado final: Q es falso.")
+
